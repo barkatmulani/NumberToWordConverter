@@ -1,25 +1,25 @@
-# Number to Words Converter
-## Technical Architecture Document
+# Number-to-Words Converter
+## Technical Document
 
 ## Minimum Requirements ##
 
 This application is created in Microsoft .NET 4.5.1 using Visual Studio 2012. The minimum requirements to run this application are as follows:
 
 ### Operating System
-Windows 7 (or later)
+Windows 7 (or later) must be installed.
 
 ### Code Editor / IDE
-Visual Studio 2012 (or later)
+Visual Studio 2012 (or later) must be installed.
 
-### .NET Framework
-4.5.1
+### .NET Framework Version
+.NET Framework 4.5.1 must be installed.
 
 ### Browser
-Firefox or Chrome (supporting ES6)
+Application could be run on any browser supporting ES6, i.e. the latest version of Mozilla Firefox or Google Chrome.
 
 ---
 
-### Application Architecture ###
+### Software Architecture
 
 The application is composed of following 2 projects:
 
