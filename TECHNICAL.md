@@ -1,7 +1,7 @@
 # Number-to-Words Converter
 ## Technical Document
 
-## Minimum Requirements ##
+### Minimum Requirements
 
 This application is created in Microsoft .NET 4.5.1 using Visual Studio 2012. The minimum requirements to run this application are as follows:
 
