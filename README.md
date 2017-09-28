@@ -1,5 +1,5 @@
-# Currency to Words Converter
-Convert and display any given currency value in Words.
+# Number to Words Converter
+Convert any given currency value into Words.
 
 ## Get Started
 1. **Open the solution in Visual Studio 2012 (or any later version).**
